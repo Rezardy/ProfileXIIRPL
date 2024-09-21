@@ -38,6 +38,11 @@ Or, the easy way:
 Using Visual Studio's source control:
 1. Clone Repository and it's destination
 2. ah aww man it's already done??
+
+to make changes, you:
+1. make changes
+2. stage it and give it a funny name
+3. commit
 ===
 
 
