@@ -31,6 +31,13 @@ if ^ results in all green names you are did really well !!
 8. important
 now, read carefully
 put your hands up in the air, wear your biggest smile, and yell. [woohoo!!]!!
+
+//
+
+Or, the easy way:
+Using Visual Studio's source control:
+1. Clone Repository and it's destination
+2. ah aww man it's already done??
 ===
 
 
