@@ -1,0 +1,43 @@
+===
+1. Check if you have git
+[git --version]
+
+2. update git if you don't latest
+[git update]
+
+3. download git at google if no git
+[can't bother]
+
+4. configs
+[git config --global user.name "(github name)"]
+[git config --global user.email (github email)]
+use [git config --list] to check
+
+5. branch
+[git config --global init.defaultBranch main]
+
+6. directory
+write [dir] or [ls] to see folders
+use [cd] to move to directories
+use [cd ..] if you made a mistake
+
+7. create
+[git init (name of thing)]
+move your programs n stuff to the folder
+use [git add .] to get the names green
+use [git status] whenever to check where you at
+if ^ results in all green names you are did really well !!
+
+8. important
+now, read carefully
+put your hands up in the air, wear your biggest smile, and yell. [woohoo!!]!!
+===
+
+
+
+
+
+
+
+
+;
