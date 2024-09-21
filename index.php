@@ -26,7 +26,7 @@
     <hr>
     <header class="centered">
         <img class="rounded" src="img/Baller.png" alt="dat is me">
-        <h1 class="focusr">Andhika Putra</h1>
+        <h1 class="focusr">RED ACTED</h1>
         <p>Video Game Developer</p>
     </header>
     <hr class="spaced">
