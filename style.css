@@ -1,0 +1,98 @@
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+}
+a.selected{
+    color: black;
+}
+
+a.wip{
+    color: red;
+}
+
+nav{
+    font-size: large;
+}
+nav ul{
+    background: gray;
+    padding: 0 0px;
+    list-style: none;
+    position: relative;
+    width: 100%;
+    font-family: 'helvetica', arial;
+}
+nav ul:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+nav ul li{
+    float: left;
+}
+nav ul li:hover{
+    background-color: lightgray;
+}
+nav ul li a{
+    display: block;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    display: block;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: white;
+}
+nav ul ul{
+    display: none;
+    background: gray;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+    max-width: 300px;
+    width: auto;
+}
+nav ul ul li{
+    float: none;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    position: relative;
+}
+nav ul li:hover > ui{
+    display: block;
+}
+nav ul ul li a {
+    padding: 10px 40px;
+    color: white;
+}
+nav ul ul li a:hover {
+    background: lightgray;
+}
+nav ul ul ul{
+    position: absolute;
+    left: 100px;
+    top: 0;
+    width: 200px;
+}
+
+.centered{
+    text-align: center;
+    margin: auto;
+}
+.inline{
+    display: inline-block;
+}
+.rounded{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.small{
+    width: 40%;
+    height: auto;
+}
+.spaced{
+    margin-top: 5em;
+}

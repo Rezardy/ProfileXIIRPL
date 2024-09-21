@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazing Profile</title>
+    <link rel="stylesheet" href="style9.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#" class="wip">Home</a></li>
+            <li><a href="index.php">Profile</a></li>
+            <li class="dropdown"><a href="about.php" class="selected">About</a>
+                <ul>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="#">Material</a>
+                    <ul>
+                        <li><a href="CSS.docx">CSS</a></li>
+                    </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <hr>
+        <article class="centered">
+            <h2 class="focusr">About Me</h2>
+            <p class="inline small">
+                Hello! I am a Video Game Developer working mainly on 2d Puzzle/Turn Based Games,
+                I am currently learning HTML out of artificial necessity and am creating this for training
+            </p> <br>
+            <p class="inline small">
+                I'm still new in web development, so I might dabble in this cool weird thing called game design
+                I won't ever stop learning regardless of course!
+            </p> <br>
+            <p class="inline small">
+                I'm going to get a hold of this 'Gamemaker Language', just you watch!
+                Video is related, please watch:
+            </p> <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/iIgEWRb61IQ?si=-GuxquMIJxZzBQoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </article>
+    <hr class="spaced">
+        <footer class="centered">
+            <p>Copyright &copy; 2024 Andhika Putra</p>
+        </footer>
+</body>
+</html>

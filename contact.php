@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazing Profile</title>
+    <link rel="stylesheet" href="style7.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#" class="wip">Home</a></li>
+            <li><a href="index.php">Profile</a></li>
+            <li class="dropdown"><a href="about.php">About</a>
+            <ul>
+                <li><a href="contact.php" class="selected">Contact</a></li>
+                <li><a href="#">Material</a>
+                <ul>
+                    <li><a href="CSS.docx">CSS</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    </nav>
+    <hr>
+        <div>
+            <h1 class="focusr">Contact Me</h1>
+            <form action="https://www.youtube.com" id="noerrorspls">
+                <table>
+                    <tr>
+                        <td><label for="email">Email</label></td>
+                        <td>:</td>
+                        <td><input type="email" name="email" id="email" placeholder="your@email.com"></td>
+                    </tr>
+                    <tr>
+                        <td><label for="message">Message</label></td>
+                        <td>:</td>
+                        <td><textarea name="message" id="message" rows="4" cols="80"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td><input type="submit" value="Send"></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    <hr class="spaced">
+        <footer class="centered">
+            <p>Copyright &copy; 2024 Andhika Putra</p>
+        </footer>
+</body>
+</html>
+</body>
+</html>
